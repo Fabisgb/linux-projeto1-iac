@@ -1,3 +1,5 @@
+![Capa do Projeto](./assets/Z.jpg)
+
 # Linux - Infraestrutura como Código (IaC)
 
 Este projeto contém um script bash que automatiza a criação de usuários, grupos, diretórios e permissões no Linux. O objetivo é fornecer uma maneira fácil de configurar a estrutura de uma máquina Linux com as permissões corretas de maneira rápida e reutilizável.

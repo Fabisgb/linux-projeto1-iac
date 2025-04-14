@@ -68,6 +68,6 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões. Para isso:
 2. Faça suas alterações e melhorias.
 3. Envie um pull request com suas mudanças.
 
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+## Licença
+Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
